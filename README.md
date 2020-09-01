@@ -1,1 +1,1 @@
-# plot-pergerakan-kurs-JPY-pada-tahun-2020
+# Web Scapping With BeautifullSoup
